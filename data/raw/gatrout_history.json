@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 4763,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4762,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4761,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4760,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4759,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4758,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4757,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4756,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4755,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4754,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4753,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4752,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4751,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 100,
+    "county": "Habersham",
+    "waterbody": "Panther Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4750,
+    "stocked_on": "2026-08-14",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4749,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 98,
+    "county": "White",
+    "waterbody": "Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4748,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4747,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4746,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4745,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4744,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4743,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4742,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4741,
+    "stocked_on": "2026-08-13",
+    "waterbody_id": 44,
+    "county": "Chattooga",
+    "waterbody": "Taliaferro Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4740,
+    "stocked_on": "2026-08-12",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4739,
+    "stocked_on": "2026-08-12",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4738,
+    "stocked_on": "2026-08-12",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4737,
+    "stocked_on": "2026-08-12",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4736,
+    "stocked_on": "2026-08-11",
+    "waterbody_id": 101,
+    "county": "Fannin",
+    "waterbody": "Toccoa River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4735,
+    "stocked_on": "2026-08-11",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4734,
+    "stocked_on": "2026-08-10",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4733,
+    "stocked_on": "2026-08-10",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4582,
+    "stocked_on": "2026-08-07",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4581,
+    "stocked_on": "2026-08-07",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4580,
+    "stocked_on": "2026-08-07",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4579,
+    "stocked_on": "2026-08-07",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4578,
+    "stocked_on": "2026-08-07",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4577,
+    "stocked_on": "2026-08-07",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4576,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4575,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4574,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4573,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4572,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4571,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4570,
+    "stocked_on": "2026-08-06",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4569,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4568,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4567,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4566,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4565,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4564,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4563,
+    "stocked_on": "2026-08-05",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4562,
+    "stocked_on": "2026-08-04",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4561,
+    "stocked_on": "2026-08-04",
+    "waterbody_id": 11,
+    "county": "Gilmer",
+    "waterbody": "Tickanetley Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4560,
+    "stocked_on": "2026-08-04",
+    "waterbody_id": 10,
+    "county": "Gilmer",
+    "waterbody": "Owl Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4559,
+    "stocked_on": "2026-08-03",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4558,
+    "stocked_on": "2026-08-03",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4383,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4382,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4381,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4380,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4379,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4378,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4377,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 100,
+    "county": "Habersham",
+    "waterbody": "Panther Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4376,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4375,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4374,
+    "stocked_on": "2026-07-31",
+    "waterbody_id": 44,
+    "county": "Chattooga",
+    "waterbody": "Taliaferro Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4373,
+    "stocked_on": "2026-07-30",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4372,
+    "stocked_on": "2026-07-30",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4371,
+    "stocked_on": "2026-07-30",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4370,
+    "stocked_on": "2026-07-30",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4369,
+    "stocked_on": "2026-07-30",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4368,
+    "stocked_on": "2026-07-30",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4367,
+    "stocked_on": "2026-07-29",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4366,
+    "stocked_on": "2026-07-29",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4365,
+    "stocked_on": "2026-07-29",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4364,
+    "stocked_on": "2026-07-29",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4363,
+    "stocked_on": "2026-07-29",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4362,
+    "stocked_on": "2026-07-29",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4361,
+    "stocked_on": "2026-07-28",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4360,
+    "stocked_on": "2026-07-28",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4359,
+    "stocked_on": "2026-07-28",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4358,
+    "stocked_on": "2026-07-28",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4357,
+    "stocked_on": "2026-07-27",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4356,
+    "stocked_on": "2026-07-27",
+    "waterbody_id": 15,
+    "county": "Hart",
+    "waterbody": "Hartwell Tailwaters",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4355,
+    "stocked_on": "2026-07-27",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4264,
+    "stocked_on": "2026-07-24",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4263,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4262,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4261,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4260,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4259,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4258,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4257,
+    "stocked_on": "2026-07-23",
+    "waterbody_id": 2,
+    "county": "Fannin",
+    "waterbody": "Big Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4256,
+    "stocked_on": "2026-07-22",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4255,
+    "stocked_on": "2026-07-22",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4254,
+    "stocked_on": "2026-07-22",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4253,
+    "stocked_on": "2026-07-22",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4252,
+    "stocked_on": "2026-07-22",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4251,
+    "stocked_on": "2026-07-20",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4250,
+    "stocked_on": "2026-07-20",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4009,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4008,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4007,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4006,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4005,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4004,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4003,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4002,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 50,
+    "county": "Floyd",
+    "waterbody": "Mt. Hope Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4001,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 4000,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3999,
+    "stocked_on": "2026-07-17",
+    "waterbody_id": 44,
+    "county": "Chattooga",
+    "waterbody": "Taliaferro Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3998,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3997,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3996,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3995,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3994,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3993,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3992,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3991,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3990,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3989,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3988,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3987,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 87,
+    "county": "Dawson",
+    "waterbody": "Little Amicalola",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3986,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 22,
+    "county": "Dawson",
+    "waterbody": "Cochran Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3985,
+    "stocked_on": "2026-07-16",
+    "waterbody_id": 21,
+    "county": "Dawson",
+    "waterbody": "Amicalola Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3984,
+    "stocked_on": "2026-07-15",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3983,
+    "stocked_on": "2026-07-15",
+    "waterbody_id": 15,
+    "county": "Hart",
+    "waterbody": "Hartwell Tailwaters",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3982,
+    "stocked_on": "2026-07-15",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3981,
+    "stocked_on": "2026-07-15",
+    "waterbody_id": 100,
+    "county": "Habersham",
+    "waterbody": "Panther Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3980,
+    "stocked_on": "2026-07-15",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3979,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3978,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3977,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3976,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3975,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3974,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3973,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 10,
+    "county": "Gilmer",
+    "waterbody": "Owl Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3972,
+    "stocked_on": "2026-07-14",
+    "waterbody_id": 52,
+    "county": "Gilmer",
+    "waterbody": "Mountaintown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3971,
+    "stocked_on": "2026-07-13",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3970,
+    "stocked_on": "2026-07-13",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3861,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3860,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3859,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3858,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3857,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3856,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3855,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3854,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3853,
+    "stocked_on": "2026-07-10",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3852,
+    "stocked_on": "2026-07-09",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3851,
+    "stocked_on": "2026-07-09",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3850,
+    "stocked_on": "2026-07-09",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3849,
+    "stocked_on": "2026-07-09",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3848,
+    "stocked_on": "2026-07-09",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3847,
+    "stocked_on": "2026-07-09",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3846,
+    "stocked_on": "2026-07-06",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3845,
+    "stocked_on": "2026-07-06",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3844,
+    "stocked_on": "2026-07-06",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3519,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 43,
+    "county": "White",
+    "waterbody": "Town Creek (W)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3518,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3517,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3516,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3515,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3514,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3513,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3512,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 50,
+    "county": "Floyd",
+    "waterbody": "Mt. Hope Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3511,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3510,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3509,
+    "stocked_on": "2026-07-02",
+    "waterbody_id": 44,
+    "county": "Chattooga",
+    "waterbody": "Taliaferro Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3508,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3507,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3506,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3505,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3504,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3503,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3502,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 41,
+    "county": "Union",
+    "waterbody": "Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3501,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 39,
+    "county": "Union",
+    "waterbody": "W.F. Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3500,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3499,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3498,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 35,
+    "county": "Union",
+    "waterbody": "Brasstown Creek (U)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3497,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3496,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3495,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 32,
+    "county": "Towns",
+    "waterbody": "Hiawassee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3494,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 31,
+    "county": "Towns",
+    "waterbody": "Brasstown Creek (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3493,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3492,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3491,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3490,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3489,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3488,
+    "stocked_on": "2026-07-01",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3487,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3486,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 11,
+    "county": "Gilmer",
+    "waterbody": "Tickanetley Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3485,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 10,
+    "county": "Gilmer",
+    "waterbody": "Owl Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3484,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3483,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 48,
+    "county": "Fannin",
+    "waterbody": "Sugar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3482,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3481,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 47,
+    "county": "Fannin",
+    "waterbody": "Hothouse Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3480,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 46,
+    "county": "Fannin",
+    "waterbody": "Hemptown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3479,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3478,
+    "stocked_on": "2026-06-30",
+    "waterbody_id": 1,
+    "county": "Bartow",
+    "waterbody": "Connesena Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3477,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3476,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 29,
+    "county": "Rabun",
+    "waterbody": "Timpson Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3475,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 28,
+    "county": "Rabun",
+    "waterbody": "Tiger Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3474,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3473,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3472,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 55,
+    "county": "Paulding",
+    "waterbody": "Raccoon Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3471,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 73,
+    "county": "Lumpkin",
+    "waterbody": "Ward Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3470,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3469,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3468,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 15,
+    "county": "Hart",
+    "waterbody": "Hartwell Tailwaters",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3467,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 23,
+    "county": "Habersham",
+    "waterbody": "Panther Creek (H)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3466,
+    "stocked_on": "2026-06-29",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3243,
+    "stocked_on": "2026-06-26",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3242,
+    "stocked_on": "2026-06-26",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3241,
+    "stocked_on": "2026-06-26",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3240,
+    "stocked_on": "2026-06-26",
+    "waterbody_id": 96,
+    "county": "Paulding",
+    "waterbody": "Little Pumpkinvine Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3239,
+    "stocked_on": "2026-06-26",
+    "waterbody_id": 14,
+    "county": "Haralson",
+    "waterbody": "Watermill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3238,
+    "stocked_on": "2026-06-26",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3237,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3236,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3235,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3234,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3233,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3232,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3231,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3230,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3229,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3228,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 3,
+    "county": "Fannin",
+    "waterbody": "Rock Creek Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3227,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 2,
+    "county": "Fannin",
+    "waterbody": "Big Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3226,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 87,
+    "county": "Dawson",
+    "waterbody": "Little Amicalola",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3225,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 22,
+    "county": "Dawson",
+    "waterbody": "Cochran Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3224,
+    "stocked_on": "2026-06-25",
+    "waterbody_id": 21,
+    "county": "Dawson",
+    "waterbody": "Amicalola Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3223,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3222,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3221,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3220,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3219,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3218,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3217,
+    "stocked_on": "2026-06-24",
+    "waterbody_id": 93,
+    "county": "Dade",
+    "waterbody": "Allison Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 3216,
+    "stocked_on": "2026-06-22",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2971,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2970,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2969,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2968,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2967,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2966,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2965,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 54,
+    "county": "Murray",
+    "waterbody": "Mill Creek - 1",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2964,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2963,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2962,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 52,
+    "county": "Gilmer",
+    "waterbody": "Mountaintown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2961,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 10,
+    "county": "Gilmer",
+    "waterbody": "Owl Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2960,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2959,
+    "stocked_on": "2026-06-18",
+    "waterbody_id": 44,
+    "county": "Chattooga",
+    "waterbody": "Taliaferro Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2958,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2957,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2956,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2955,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2954,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2953,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2952,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2951,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2950,
+    "stocked_on": "2026-06-17",
+    "waterbody_id": 1,
+    "county": "Bartow",
+    "waterbody": "Connesena Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2949,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2948,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2947,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2946,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2945,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2944,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2943,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2942,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2941,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2940,
+    "stocked_on": "2026-06-16",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2939,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 41,
+    "county": "Union",
+    "waterbody": "Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2938,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 40,
+    "county": "Union",
+    "waterbody": "Winfield Scott Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2937,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 39,
+    "county": "Union",
+    "waterbody": "W.F. Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2936,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2935,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2934,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2933,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 32,
+    "county": "Towns",
+    "waterbody": "Hiawassee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2932,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2931,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 15,
+    "county": "Hart",
+    "waterbody": "Hartwell Tailwaters",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2930,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 23,
+    "county": "Habersham",
+    "waterbody": "Panther Creek (H)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2929,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2928,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2927,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 20,
+    "county": "Chattooga",
+    "waterbody": "Storey Mill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2926,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 19,
+    "county": "Chattooga",
+    "waterbody": "Ruff Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2925,
+    "stocked_on": "2026-06-15",
+    "waterbody_id": 99,
+    "county": "Chattooga",
+    "waterbody": "East Fork Little River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2686,
+    "stocked_on": "2026-06-12",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2685,
+    "stocked_on": "2026-06-12",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2684,
+    "stocked_on": "2026-06-12",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2683,
+    "stocked_on": "2026-06-12",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2682,
+    "stocked_on": "2026-06-12",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2681,
+    "stocked_on": "2026-06-12",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2680,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2679,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2678,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2677,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2675,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2674,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 75,
+    "county": "Stephens",
+    "waterbody": "Middle Broad River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2673,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 55,
+    "county": "Paulding",
+    "waterbody": "Raccoon Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2672,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2671,
+    "stocked_on": "2026-06-11",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2670,
+    "stocked_on": "2026-06-10",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2669,
+    "stocked_on": "2026-06-10",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2668,
+    "stocked_on": "2026-06-10",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2667,
+    "stocked_on": "2026-06-10",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2666,
+    "stocked_on": "2026-06-10",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2665,
+    "stocked_on": "2026-06-10",
+    "waterbody_id": 23,
+    "county": "Habersham",
+    "waterbody": "Panther Creek (H)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2664,
+    "stocked_on": "2026-06-09",
+    "waterbody_id": 98,
+    "county": "White",
+    "waterbody": "Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2662,
+    "stocked_on": "2026-06-09",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2661,
+    "stocked_on": "2026-06-09",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2660,
+    "stocked_on": "2026-06-09",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2659,
+    "stocked_on": "2026-06-09",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2658,
+    "stocked_on": "2026-06-09",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2657,
+    "stocked_on": "2026-06-08",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2656,
+    "stocked_on": "2026-06-08",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2655,
+    "stocked_on": "2026-06-08",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2654,
+    "stocked_on": "2026-06-08",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2653,
+    "stocked_on": "2026-06-08",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2364,
+    "stocked_on": "2026-06-06",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2363,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2362,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2361,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2360,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2359,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2358,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2357,
+    "stocked_on": "2026-06-05",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2356,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2355,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2354,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2353,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2352,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2351,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2350,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2349,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2348,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2347,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 23,
+    "county": "Habersham",
+    "waterbody": "Panther Creek (H)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2346,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 87,
+    "county": "Dawson",
+    "waterbody": "Little Amicalola",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2345,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 22,
+    "county": "Dawson",
+    "waterbody": "Cochran Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2344,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 21,
+    "county": "Dawson",
+    "waterbody": "Amicalola Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2343,
+    "stocked_on": "2026-06-04",
+    "waterbody_id": 1,
+    "county": "Bartow",
+    "waterbody": "Connesena Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2342,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2341,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2340,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2339,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2338,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2337,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2336,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2335,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 14,
+    "county": "Haralson",
+    "waterbody": "Watermill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2334,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2333,
+    "stocked_on": "2026-06-03",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2332,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 76,
+    "county": "Stephens",
+    "waterbody": "Panther Creek (S)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2331,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 75,
+    "county": "Stephens",
+    "waterbody": "Middle Broad River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2330,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 54,
+    "county": "Murray",
+    "waterbody": "Mill Creek - 1",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2329,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2328,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 52,
+    "county": "Gilmer",
+    "waterbody": "Mountaintown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2327,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 10,
+    "county": "Gilmer",
+    "waterbody": "Owl Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2326,
+    "stocked_on": "2026-06-02",
+    "waterbody_id": 6,
+    "county": "Gilmer",
+    "waterbody": "Cartecay River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2325,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 41,
+    "county": "Union",
+    "waterbody": "Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2324,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 40,
+    "county": "Union",
+    "waterbody": "Winfield Scott Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2323,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 39,
+    "county": "Union",
+    "waterbody": "W.F. Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2322,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2321,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2320,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2319,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 32,
+    "county": "Towns",
+    "waterbody": "Hiawassee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2318,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2317,
+    "stocked_on": "2026-06-01",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2082,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2081,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2080,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2079,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2078,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2077,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 76,
+    "county": "Stephens",
+    "waterbody": "Panther Creek (S)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2076,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2075,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 15,
+    "county": "Hart",
+    "waterbody": "Hartwell Tailwaters",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2074,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2073,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 3,
+    "county": "Fannin",
+    "waterbody": "Rock Creek Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2072,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 2,
+    "county": "Fannin",
+    "waterbody": "Big Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2071,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 20,
+    "county": "Chattooga",
+    "waterbody": "Storey Mill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2070,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 19,
+    "county": "Chattooga",
+    "waterbody": "Ruff Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2069,
+    "stocked_on": "2026-05-29",
+    "waterbody_id": 1,
+    "county": "Bartow",
+    "waterbody": "Connesena Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2068,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2067,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2066,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2065,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 69,
+    "county": "Lumpkin",
+    "waterbody": "Dockery Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2064,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2063,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2062,
+    "stocked_on": "2026-05-28",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2061,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2060,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 41,
+    "county": "Union",
+    "waterbody": "Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2059,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2058,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2057,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2056,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2055,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2054,
+    "stocked_on": "2026-05-27",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2053,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2052,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2051,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2050,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2049,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2048,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2047,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2046,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2045,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 93,
+    "county": "Dade",
+    "waterbody": "Allison Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 2044,
+    "stocked_on": "2026-05-26",
+    "waterbody_id": 92,
+    "county": "Chattooga",
+    "waterbody": "East Fork Little River - 2",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1641,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1640,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 63,
+    "county": "White",
+    "waterbody": "Sautee Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1639,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 60,
+    "county": "White",
+    "waterbody": "Chickamauga Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1638,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1637,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1636,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1635,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1634,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1633,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 50,
+    "county": "Floyd",
+    "waterbody": "Mt. Hope Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1632,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 95,
+    "county": "Floyd",
+    "waterbody": "Little Cedar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1631,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1630,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 48,
+    "county": "Fannin",
+    "waterbody": "Sugar Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1629,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 47,
+    "county": "Fannin",
+    "waterbody": "Hothouse Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1628,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 46,
+    "county": "Fannin",
+    "waterbody": "Hemptown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1627,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 45,
+    "county": "Fannin",
+    "waterbody": "Blueridge TW",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1626,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 22,
+    "county": "Dawson",
+    "waterbody": "Cochran Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1625,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 21,
+    "county": "Dawson",
+    "waterbody": "Amicalola Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1624,
+    "stocked_on": "2026-05-22",
+    "waterbody_id": 44,
+    "county": "Chattooga",
+    "waterbody": "Taliaferro Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1623,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 43,
+    "county": "White",
+    "waterbody": "Town Creek (W)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1622,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 78,
+    "county": "Union",
+    "waterbody": "Cooper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1621,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 30,
+    "county": "Rabun",
+    "waterbody": "Black Rock Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1620,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 28,
+    "county": "Rabun",
+    "waterbody": "Tiger Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1619,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 18,
+    "county": "Rabun",
+    "waterbody": "Stonewall Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1618,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1617,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1616,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1615,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 25,
+    "county": "Lumpkin",
+    "waterbody": "Chestatee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1614,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1613,
+    "stocked_on": "2026-05-21",
+    "waterbody_id": 23,
+    "county": "Habersham",
+    "waterbody": "Panther Creek (H)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1612,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1611,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1610,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 61,
+    "county": "White",
+    "waterbody": "Jasus Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1609,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 59,
+    "county": "White",
+    "waterbody": "Chattahoochee River (WMA)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1608,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 79,
+    "county": "Walker",
+    "waterbody": "West Armuchee",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1607,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 40,
+    "county": "Union",
+    "waterbody": "Winfield Scott Lake",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1606,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 37,
+    "county": "Union",
+    "waterbody": "Suches Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1605,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 76,
+    "county": "Stephens",
+    "waterbody": "Panther Creek (S)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1604,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 75,
+    "county": "Stephens",
+    "waterbody": "Middle Broad River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1603,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 24,
+    "county": "Habersham",
+    "waterbody": "Raper Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1602,
+    "stocked_on": "2026-05-20",
+    "waterbody_id": 65,
+    "county": "Floyd",
+    "waterbody": "Johns Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1601,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 94,
+    "county": "Union",
+    "waterbody": "Canada Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1600,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 54,
+    "county": "Murray",
+    "waterbody": "Mill Creek - 1",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1599,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 53,
+    "county": "Murray",
+    "waterbody": "Holly Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1598,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 73,
+    "county": "Lumpkin",
+    "waterbody": "Ward Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1597,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1596,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1595,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 52,
+    "county": "Gilmer",
+    "waterbody": "Mountaintown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1594,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 12,
+    "county": "Gilmer",
+    "waterbody": "Turkey Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1593,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 11,
+    "county": "Gilmer",
+    "waterbody": "Tickanetley Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1592,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 10,
+    "county": "Gilmer",
+    "waterbody": "Owl Town Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1591,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 9,
+    "county": "Gilmer",
+    "waterbody": "Ellijay River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1590,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 8,
+    "county": "Gilmer",
+    "waterbody": "Coosawattee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1589,
+    "stocked_on": "2026-05-19",
+    "waterbody_id": 7,
+    "county": "Gilmer",
+    "waterbody": "Clear Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1588,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 41,
+    "county": "Union",
+    "waterbody": "Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1587,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 39,
+    "county": "Union",
+    "waterbody": "W.F. Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1586,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1585,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 35,
+    "county": "Union",
+    "waterbody": "Brasstown Creek (U)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1584,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 34,
+    "county": "Towns",
+    "waterbody": "Swallow Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1583,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1582,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 32,
+    "county": "Towns",
+    "waterbody": "Hiawassee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1581,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 31,
+    "county": "Towns",
+    "waterbody": "Brasstown Creek (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1580,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1579,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1578,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1577,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1576,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 5,
+    "county": "Forsyth/Gwinnett",
+    "waterbody": "Lanier Tailwater",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1575,
+    "stocked_on": "2026-05-18",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1463,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 64,
+    "county": "White",
+    "waterbody": "Spoilcane Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1461,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 82,
+    "county": "White",
+    "waterbody": "Chattahoochee River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1460,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 58,
+    "county": "Rabun",
+    "waterbody": "West Fork Chattooga River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1459,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 57,
+    "county": "Rabun",
+    "waterbody": "Warwoman Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1458,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 97,
+    "county": "Rabun",
+    "waterbody": "Timpson",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1457,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 56,
+    "county": "Rabun",
+    "waterbody": "Sarah's Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1456,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 27,
+    "county": "Rabun",
+    "waterbody": "Moccasin Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1455,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 26,
+    "county": "Rabun",
+    "waterbody": "Holcomb Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1454,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 66,
+    "county": "Habersham",
+    "waterbody": "Soque River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1453,
+    "stocked_on": "2026-05-15",
+    "waterbody_id": 4,
+    "county": "Fannin",
+    "waterbody": "Toccoa River (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1452,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 76,
+    "county": "Stephens",
+    "waterbody": "Panther Creek (S)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1451,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 75,
+    "county": "Stephens",
+    "waterbody": "Middle Broad River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1450,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 72,
+    "county": "Lumpkin",
+    "waterbody": "Nimblewill Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1449,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 71,
+    "county": "Lumpkin",
+    "waterbody": "Frogtown Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1448,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 70,
+    "county": "Lumpkin",
+    "waterbody": "Etowah River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1447,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 68,
+    "county": "Lumpkin",
+    "waterbody": "Dicks Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1446,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 67,
+    "county": "Lumpkin",
+    "waterbody": "Boggs Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1445,
+    "stocked_on": "2026-05-14",
+    "waterbody_id": 1,
+    "county": "Bartow",
+    "waterbody": "Connesena Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1444,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 41,
+    "county": "Union",
+    "waterbody": "Wolf Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1443,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 36,
+    "county": "Union",
+    "waterbody": "Nottely River",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1442,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 77,
+    "county": "Towns",
+    "waterbody": "Tallulah River (T)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1441,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 33,
+    "county": "Towns",
+    "waterbody": "Soapstone Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1440,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 74,
+    "county": "Rabun",
+    "waterbody": "Tallulah River (R)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1439,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 55,
+    "county": "Paulding",
+    "waterbody": "Raccoon Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1438,
+    "stocked_on": "2026-05-13",
+    "waterbody_id": 81,
+    "county": "Fannin",
+    "waterbody": "Rock Creek (F)",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1437,
+    "stocked_on": "2026-05-12",
+    "waterbody_id": 80,
+    "county": "White",
+    "waterbody": "Smith Creek",
+    "species": null,
+    "quantity": null
+  },
+  {
+    "id": 1436,
+    "stocked_on": "2026-05-12",
+    "waterbody_id": 62,
+    "county": "White",
+    "waterbody": "Low Gap Creek",
+    "species": null,
+    "quantity": null
+  }
+]
