@@ -62,3 +62,16 @@ df_rules["waterbody"]=(
 
 print(df_rules.head(20))
 print("row:", len(df_rules))
+
+df_rules["modifier"] = df_rules["modifier"].fillna("")
+
+ddf_rules = df_rules[
+    ["waterbody", "county", "table", "modifier"]
+]
+
+df_rules.to_csv(
+    "data/processed/stocking_rules_2026.csv",
+    index = False
+)
+
+print("saved csv")
