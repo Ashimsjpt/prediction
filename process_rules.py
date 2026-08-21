@@ -69,6 +69,14 @@ ddf_rules = df_rules[
     ["waterbody", "county", "table", "modifier"]
 ]
 
+table_fix = {
+    5: 4,
+    6: 5,
+    7: 6
+}
+
+df_rules["table"] = df_rules["table"].replace(table_fix)
+
 df_rules.to_csv(
     "data/processed/stocking_rules_2026.csv",
     index = False
