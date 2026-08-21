@@ -1,0 +1,21 @@
+dnr_waterbody,dnr_county,last_stocked,days_since_last,table,modifier,august_count,expected_days,prediction_score
+Chestatee River,Lumpkin,2026-05-21,92,3,,0,30.0,3.066666666666667
+Mountaintown Creek,Gilmer,2026-07-14,38,2,,0,14.0,2.7142857142857144
+Cartecay River,Gilmer,2026-06-02,80,3,,0,30.0,2.6666666666666665
+Little Amicalola Creek,Dawson,2026-07-16,36,2,,0,14.0,2.5714285714285716
+Cochran Creek,Dawson,2026-07-16,36,2,,0,14.0,2.5714285714285716
+Amicalola Creek,Dawson,2026-07-16,36,2,,0,14.0,2.5714285714285716
+Mill Creek,Murray,2026-06-18,64,2,**,0,30.0,2.1333333333333333
+Hartwell Tailwaters,Hart,2026-07-27,25,2,,0,14.0,1.7857142857142858
+Hiawassee River,Towns,2026-07-01,51,2,**,0,30.0,1.7
+West Fork Wolf Creek,Union,2026-07-01,51,2,**,0,30.0,1.7
+Mt. Hope Creek,Floyd,2026-07-17,35,4,,0,28.0,1.25
+Holly Creek,Murray,2026-08-04,17,1,**,1,14.0,1.2142857142857142
+Owl Town Creek,Gilmer,2026-08-04,17,2,,1,14.0,1.2142857142857142
+Timpson Creek,Rabun,2026-06-29,53,4,,0,45.0,1.1777777777777778
+Brasstown Creek,Towns,2026-07-01,51,4,,0,44.0,1.1590909090909092
+Brasstown Creek,Union,2026-07-01,51,4,,0,44.0,1.1590909090909092
+Etowah River,Lumpkin,2026-08-05,16,1,**,1,14.0,1.1428571428571428
+Nimblewill Creek,Lumpkin,2026-08-05,16,1,**,1,14.0,1.1428571428571428
+Soque River,Habersham,2026-08-07,14,1,,1,14.0,1.0
+Big Creek,Fannin,2026-07-23,29,3,,0,30.0,0.9666666666666667
