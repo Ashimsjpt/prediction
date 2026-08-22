@@ -1,0 +1,21 @@
+dnr_waterbody,dnr_county,last_stocked,days_since_last,table,modifier,august_count,expected_days,prediction_score
+Chestatee River,Lumpkin,2026-05-21,85,3,,0,30.0,2.8333333333333335
+Cartecay River,Gilmer,2026-06-02,73,3,,0,30.0,2.433333333333333
+Mountaintown Creek,Gilmer,2026-07-14,31,2,,0,14.0,2.2142857142857144
+Amicalola Creek,Dawson,2026-07-16,29,2,,0,14.0,2.0714285714285716
+Cochran Creek,Dawson,2026-07-16,29,2,,0,14.0,2.0714285714285716
+Little Amicalola Creek,Dawson,2026-07-16,29,2,,0,14.0,2.0714285714285716
+Mill Creek,Murray,2026-06-18,57,2,**,0,30.0,1.9
+Hiawassee River,Towns,2026-07-01,44,2,**,0,30.0,1.4666666666666666
+West Fork Wolf Creek,Union,2026-07-01,44,2,**,0,30.0,1.4666666666666666
+Hartwell Tailwaters,Hart,2026-07-27,18,2,,0,14.0,1.2857142857142858
+Holcomb Creek,Rabun,2026-07-29,16,2,,0,14.0,1.1428571428571428
+West Armurchee Creek,Walker,2026-07-30,15,1,**,0,14.0,1.0714285714285714
+Johns Creek,Floyd,2026-07-30,15,1,**,0,14.0,1.0714285714285714
+Timpson Creek,Rabun,2026-06-29,46,4,,0,45.0,1.0222222222222221
+Raper Creek,Habersham,2026-07-31,14,2,,0,14.0,1.0
+Brasstown Creek,Towns,2026-07-01,44,4,,0,44.0,1.0
+Brasstown Creek,Union,2026-07-01,44,4,,0,44.0,1.0
+Mt. Hope Creek,Floyd,2026-07-17,28,4,,0,28.0,1.0
+Panther Creek,Habersham,2026-07-31,14,2,,0,14.0,1.0
+Spoilcane Creek,White,2026-07-31,14,2,,0,14.0,1.0
